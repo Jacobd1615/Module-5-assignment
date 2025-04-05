@@ -2,6 +2,7 @@
 This is a simple dashboard template built with HTML and Bootstrap. It includes several components commonly found in dashboards, such as a navigation bar, user registration form, user list table, and responsive buttons.
 
 Key features:
+
 1.Navigation Bar: A sticky, collapsible navigation bar with links to the Dashboard, Users, and Settings sections.
 
 2.Responsive Design: The layout is responsive, ensuring the content adjusts correctly on different screen sizes.
